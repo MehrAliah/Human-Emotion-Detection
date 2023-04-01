@@ -1,0 +1,2 @@
+# Human-Emotion-Detection
+HUMAN EMOTION DETECTION USING CNN
